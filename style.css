@@ -1,0 +1,59 @@
+.container{
+    margin-bottom: 100px;
+    
+}
+.container img{
+    margin-bottom: 40px;
+}
+.card-title{
+    text-align: center;
+}
+.price{
+    text-size-adjust: ;
+    
+}
+.buy-now{
+    background-image: linear-gradient(to bottom, black 0%, black 100%);
+    color: #ffff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    margin-top: 30px;
+    
+}
+h4{
+    text-align: right;
+    color: darkgoldenrod;
+    margin-bottom: 50px;
+    font-size: 30px;
+}
+.nav-link{
+    font-size: 20px;
+    margin: 10px 10px;
+}
+.position{
+    text-align: center;
+}
+.row{
+    border-radius: 10px;
+}
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+#Contact-us{
+ height: 300px;
+}
+footer{
+    text-align: center;
+    color: black;
+    
+}
+.padding{
+    margin-top: 30px;
+}
+
+
+
+
